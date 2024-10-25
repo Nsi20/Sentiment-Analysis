@@ -1,2 +1,1 @@
-# Sentiment-Analysis
-Performing Sentiment Analysis on customer reviews
+A Python script and a summary of the sentiment analysis results.
